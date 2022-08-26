@@ -7,7 +7,7 @@
 
 ## Built With
 
-- Major languages
+- Major languages.
 - Frameworks
 - Technologies used
 
